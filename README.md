@@ -19,6 +19,7 @@ Currently, I’m focused on:
 - HR End-to-End Process Mapping (Recruitment to Exit)
 - IT Ticket Analysis Dashboard
 - Sales & Operations Data Insights
+- Payroll Process Flow
 
 ## What I’m Building
 I’m currently working on documenting business processes and designing data structures that support better decision-making.
